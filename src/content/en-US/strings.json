@@ -1,0 +1,108 @@
+{
+    "title": {
+        "1": "Rose Of No Man's Land",
+        "2": "Casablanca Lily",
+        "3": "Discovery Set",
+        "4": "Animalique",
+        "5": "Body Oil",
+        "6": "Tree House",
+        "7": "Rose Hand Wash",
+        "8": "Blanche Hand Cream",
+        "9": "Body Wash",
+        "10": "Burning Rose",
+        "11": "Sweet Grass",
+        "12": "Mini Selection"
+    },
+    "desc": {
+        "1": "Rose of No Man's Land is the nickname given by soldiers to the nurses who saved thousands of lives during WWI. The scent is tribute to selflessness and compassion.",
+        "2": "Casablanca Lily was inspired by the thriving city that rises on the shores of the Atlantic Ocean. From its Berber roots to its colonial heritage, Casablanca’s modern identity is a mix of diverse cultures, a place in constant change between tradition and modernity. Given time, the city unravels itself, revealing the most amazing corners, a vibrant kaleidoscope of Moroccan life found nowhere else. The fragrance surrounds you like the elegance of the city that inspired it: abundance, richness and grandeur combined.",
+        "3": "This discovery set is redeemable against any 50 ml or 100 ml fragrance purchase within 4 weeks. Once your discovery set purchase is complete, you will receive via email a unique voucher code of $60 USD to be used on byredo.com.",
+        "4": "Animalique plugs into the common element in all humanity: our authentic essence and primal instincts. The feeling of euphoric dancing under disco lights, of biological, illogical attraction, of being carried away by the great sweep of vibration.",
+        "5": "Developed in an exclusive collaboration with natural skincare pioneer Susanne Kaufmann, Bregenzerwald Fragrance Oil celebrates the sensorial connection between skincare and fragrance. Named after Kaufmann’s home in Bregenzerwald where her eponymous skincare line is responsibly produced, the limited-edition series is a reflection of time and place, transporting one to the forests in the heart of the Austrian Alps.",
+        "6": "Some dreamed of tree houses as a child. Constructions that blend into their natural. Cedar, bamboo, sandalwood, guaiac wood and hay. A solid frame dotted with scents of spice, myrrh and labdanum.",
+        "7": "Rose hand wash gently washes and cleanses the hands while divinely scenting them. Pink pepper opens optimistically in combination with a radiant chord of raspberry. Finally, a base of patchouli and white musk gives the rose an eternal and sophisticated aura.",
+        "8": "The smell of texture and skins;bodies slipping beneath fresh sheets after a long day spent; laundry baskets filled to the brim; a punch of detergent. At once exploring softness and strength, Blanche is an intimate expression, powerful in its purity. Hand Cream soothes the hands, delicately scenting the skin while restoring its softness. Its 30ml elegant aluminium tube is convenient and easy to carry around.​",
+        "9": "Gypsy Water is an ode to the beauty of Romani culture, its unique customs, intimate beliefs and distinguished way of living. The scent wakens a dream of a colorful lifestyle made of innate nomadism. Woody notes of pine needle and sandalwood associated to intense amber and fresh citrus evoke the fever of gypsy nights spent in the forest.",
+        "10": "This rose has the scent of ardent desire. As the candle consumes, the flowery accents are slowly wrapped in leather and rooted in dark woods.",
+        "11": "A vision of sun-baked earth. A blank canvas for rejuvenation. The limited edition Sweet Grass candle draws upon the aromatic power of otherworldly plants and herbs. ​Dry, sharp and verdant, a fragrant cloud of musk is pierced by the clarity of sage, with sweet notes summoning a positive energy that cleanses and purifies. A core of powdery orris and ciste diffuses into base notes of ambroxan and musk, with the sweet seduction of Palo Santo lingering at the finish ​Housed in our signature smoked glass silhouette, Sweet Grass features a black wax and wick, and is finished with our quintessentially minimalist labelling.",
+        "12": "Transform the little moments with iconic scents for the holiday season. Containing three miniature candles built around warm and enveloping woody notes – Bibliothèque, Burning Rose and Bohemia –  La Mini Sélection Bois contains light, medium and strong-scents, ideal to use around the house and to light at different times of the day."
+    },
+    "Navbar": {
+        "searchPlaceholder": "What are you looking for?",
+        "searchButtonLabel": "search products",
+        "logoAlt": "Sample Logo",
+        "searchIconAlt": "search icon",
+        "greetingText": "Hi B6",
+        "historyLink": "ORDER HISTORY",
+        "arrowAlt": "Drop Down Arrow",
+        "cartAlt": "show cart",
+        "navLinkHome": "Home",
+        "navLinkDroids": "Perfume & fragrance",
+        "navLinkVehicles": "Hand & body care"
+    },
+    "Home": {
+        "welcomeSubtitle": "Byredo creates and develops a range of products such as fragrance, makeup, home, leather goods and accessories. We believe that through creativity, we are able to develop timeless products, both meaningful and inspirational, to people and their lives.",
+        "symbolAlt": "Imperial Credit currency symbol"
+    },
+    
+    "Checkout": {
+        "checkoutTitle": "Checkout",
+        "shipSectionLabel": "Shipping Info",
+        "firstNameLabel": "First Name",
+        "lastNameLabel": "Last Name",
+        "coordinatesLabel": "Coordinates",
+        "coordinatesHolder": "0,0,0",
+        "sectorLabel": "Sector",
+        "methodLabel": "Shipping Method",
+        "shipLightspeed": "Lightspeed",
+        "shipOvernight": "Overnight",
+        "shipStandard": "Standard",
+        "paySectionLabel": "Payment",
+        "payNameLabel": "Name on Card",
+        "payNameHolder": "First Last",
+        "accountLabel": "Credit Number",
+        "accountHolder": "1234567-9876-00",
+        "securityLabel": "Security Code",
+        "securityHolder": "123456",
+        "expDateLabel": "Expiration Date",
+        "cartTitle": "Shopping Cart",
+        "deleteAlt": "remove item from cart",
+        "totalLabel": "Total: ",
+        "orderLabel": "PLACE ORDER",
+        "termsStatement": "I have read and agree to the Terms and Conditions",
+        "termsLink": "[Click to View]",
+        "successMessage": "Order placed successfully!",
+        "noItemMessage": "Add items to cart to checkout."
+    },
+    "ProductShow": {
+        "qtyLabel": "Qty: ",
+        "addToCartLabel": "ADD TO CART"
+    },
+    "Cart": {
+        "cartTitle": "Shopping Cart",
+        "noItemMsg": "No items in cart.",
+        "deleteAlt": "Delete item from cart",
+        "totalTitle": "Total: ",
+        "checkoutLabel": "CHECKOUT",
+        "closeAlt": "Close Cart"
+    },
+    "OrderHistory": {
+        "historyTitle": "Order History",
+        "dateHeading": "Date",
+        "numberHeading": "Order Number",
+        "totalHeading": "Total",
+        "statusHeading": "Status"
+    },
+    "Error404": {
+        "errorMessage": "404 Error: Page not found."
+    },
+    "Bottombar": {
+        "menuAlt": "open sidebar menu"
+    },
+    "LocaleSelector": {
+        "localeLabel": "Locale: ",
+        "localeEN": "English - US",
+        "localeZH": "Chinese - China"
+    },
+    "Special": "Special"
+}
