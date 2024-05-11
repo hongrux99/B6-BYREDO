@@ -102,7 +102,7 @@
     "LocaleSelector": {
         "localeLabel": "Locale: ",
         "localeEN": "English - US",
-        "localeZH": "Chinese - China"
+        "localeZH": "中文（简体）"
     },
     "Special": "Special"
 }

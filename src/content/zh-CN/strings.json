@@ -60,7 +60,7 @@
         "paySectionLabel": "付款方式",
         "payNameLabel": "支付姓名",
         "payNameHolder": "姓名",
-        "accountLabel": "卡号号",
+        "accountLabel": "卡号",
         "accountHolder": "1234567-9876-00",
         "securityLabel": "安全代码",
         "securityHolder": "123456",
@@ -101,8 +101,8 @@
     },
     "LocaleSelector": {
         "localeLabel": "地点",
-        "localeEN": "英语 - 美国",
-        "localeZH": "中文 - 中国"
+        "localeEN": "English - US",
+        "localeZH": "中文（简体）"
     },
     "Special": "特别"
 }
