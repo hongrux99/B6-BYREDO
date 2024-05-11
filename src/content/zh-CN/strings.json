@@ -2,8 +2,8 @@
     "title": {
         "1": "荒野玫瑰",
         "2": "卡萨布兰卡百合",
-        "3": "探索套装",
-        "4": "动物",
+        "3": "探索",
+        "4": "人形物语",
         "5": "身体乳",
         "6": "树屋",
         "7": "玫瑰洗手液",
@@ -11,7 +11,7 @@
         "9": "沐浴露",
         "10": "燃烧的玫瑰",
         "11": "甜草",
-        "12": "迷你选择"
+        "12": "迷你之选"
     },
     "desc": {
         "1": "无人区的玫瑰 \"是士兵们送给在第一次世界大战期间挽救了成千上万人生命的护士们的绰号。这种香味是对无私和同情的赞美。",
@@ -32,35 +32,35 @@
         "searchButtonLabel": "搜索产品",
         "logoAlt": "徽标样本",
         "searchIconAlt": "搜索图标",
-        "greetingText": "哈喽 B6",
+        "greetingText": "你好 B6",
         "historyLink": "订购历史",
         "arrowAlt": "下拉箭头",
         "cartAlt": "显示购物车",
         "navLinkHome": "首页",
-        "navLinkDroids": "香水和香料",
+        "navLinkDroids": "香水和香薰",
         "navLinkVehicles": "手部和身体护理"
     },
     "Home": {
-        "welcomeSubtitle": "百瑞多创造并开发了一系列产品，如香水、化妆品、家居用品、皮具和配饰。我们相信，通过创造力，我们能够开发出永恒的产品，对人们和他们的生活既有意义又有启发。",
+        "welcomeSubtitle": "柏芮朵创造并开发了一系列产品，如香水、化妆品、家居用品、皮具和配饰。我们相信，通过创造力，我们能够开发出永恒的产品，对人们和他们的生活既有意义又有启发。",
         "symbolAlt": "帝国信用货币符号"
     },
     
     "Checkout": {
         "checkoutTitle": "结账",
-        "shipSectionLabel": "运输信息",
+        "shipSectionLabel": "收货信息",
         "firstNameLabel": "姓名",
         "lastNameLabel": "姓氏",
         "coordinatesLabel": "坐标",
         "coordinatesHolder": "0,0,0",
-        "sectorLabel": "部门",
+        "sectorLabel": "城市",
         "methodLabel": "运输方式",
-        "shipLightspeed": "光速",
+        "shipLightspeed": "急速",
         "shipOvernight": "隔夜",
         "shipStandard": "标准",
         "paySectionLabel": "付款方式",
-        "payNameLabel": "卡片上的姓名",
-        "payNameHolder": "第一个 最后一个",
-        "accountLabel": "学分编号",
+        "payNameLabel": "支付姓名",
+        "payNameHolder": "姓名",
+        "accountLabel": "卡号号",
         "accountHolder": "1234567-9876-00",
         "securityLabel": "安全代码",
         "securityHolder": "123456",
@@ -91,7 +91,7 @@
         "dateHeading": "日期",
         "numberHeading": "订单号",
         "totalHeading": "总计",
-        "statusHeading": "现状"
+        "statusHeading": "状态"
     },
     "Error404": {
         "errorMessage": "404错误：未找到页面。"
