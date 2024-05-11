@@ -49,8 +49,8 @@
     "Checkout": {
         "checkoutTitle": "结账",
         "shipSectionLabel": "收货信息",
-        "firstNameLabel": "姓名",
-        "lastNameLabel": "姓氏",
+        "firstNameLabel": "姓氏",
+        "lastNameLabel": "姓名",
         "coordinatesLabel": "坐标",
         "coordinatesHolder": "0,0,0",
         "sectorLabel": "城市",
