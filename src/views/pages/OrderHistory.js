@@ -30,23 +30,22 @@ let OrderHistory = {
                 <h3>${statusHeading}</h3>
             </div>`;
 
-        orderHistory.forEach((order, key) => {
+            orderHistory.forEach((order, key) => {
+                view += `
+                    <article class="orderItem">
+                        <h3>${i18n.formatDate(order.orderDate)}</h3>
+                        <h3>${order.orderNumber}</h3>
+                        <div class="gridPrice">
+                            ${i18n.formatCurrency(order.total)}
+                        </div>
+                        <h3>${order.getOrderStatus()}</h3>
+                    </article>`
+            });
             view += `
-                <article class="orderItem">
-                    <h3>${order.getOrderDate()}</h3>
-                    <h3>${order.orderNumber}</h3>
-                    <div class="gridPrice">
-                        $
-                        ${formatCurrencyWithCommas(order.total)}
-                    </div>
-                    <h3>${order.getOrderStatus()}</h3>
-                </article>`
-        });
-        view += `
-        </section>`;
-
-        return view;
-    }
+            </section>`;
+    
+            return view;
+        }
     , after_render: async () => {
 
     }

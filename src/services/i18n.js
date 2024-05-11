@@ -18,7 +18,7 @@ const i18n = {
         } catch (err) {
             console.log('Error getting strings', err);
             if (newLocale != "en-US") {
-                updateLocale("zh-CN");
+                updateLocale("en-US");
             }
         }
     },
@@ -43,17 +43,11 @@ const i18n = {
         return `${locale}/terms.html`; //$NON-NLS-L$ 
     },
     //format date accoring to locale
-    formatDate: (date,locale) => {
+    formatDate: (date) => {
         var options = { weekday: 'short', year: 'numeric', month: 'short', day: 'numeric' };
-        return new Intl.DateTimeFormat([locale, options], options).format(date); //$NON-NLS-L$
-
-        
-
+        return new Intl.DateTimeFormat([locale, 'en-US'], options).format(date); //$NON-NLS-L$
     }
-   
 }
-        
-    
 
 //used to determine the correct currency symbol
 var currencyMap = {
