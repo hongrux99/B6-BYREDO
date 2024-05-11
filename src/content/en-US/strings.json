@@ -105,5 +105,16 @@
         "localeEN": "English - US",
         "localeZH": "中文（简体）"
     },
+    "pagetitle":{
+        "1": "All perfume and fragrance",
+        "2": "All hand & body care"
+    },
+    "status":{
+        "Processing": "Processing",
+        "Shipped": "Shipped",
+        "Delivered":"Delivered"
+    },
     "Special": "Special"
+    
+
 }

@@ -47,14 +47,7 @@ const i18n = {
         var options = { weekday: 'short', year: 'numeric', month: 'short', day: 'numeric' };
         return new Intl.DateTimeFormat([locale, options], options).format(date); //$NON-NLS-L$
 
-        // For Chinese locale
-var chineseDate = formatDate(new Date(), 'zh-CN');
-console.log(chineseDate);
-
-// For English locale
-var englishDate = formatDate(new Date(), 'en-US');
-console.log(englishDate);
-
+        
     }
    
 }

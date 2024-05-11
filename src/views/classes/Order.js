@@ -28,20 +28,22 @@ class Order {
     }
 
     //create a dummy "order status" string
+    
     getOrderStatus() {
         //calculate diff
         let oneDay = 24*60*60*1000; // hours*minutes*seconds*milliseconds
         let now = new Date(); //$NON-NLS-L$
         var diffDays = Math.floor(Math.abs((this.orderDate.getTime() - now.getTime())/(oneDay))); //$NON-NLS-L$
-
+    
+        let status = i18n.getString("status")
         if(diffDays < 2) {
-            return "Processing";
+            return i18n.getString("status","Processing");
         }
         if(diffDays < 4) {
-            return "Shipped"
+            return i18n.getString("status","Shipped")
         }
         else{
-            return "Delivered";
+            return i18n.getString("status","Delivered");
         }
     }
 

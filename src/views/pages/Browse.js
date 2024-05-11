@@ -12,20 +12,21 @@ let Browse = {
 
         let productMap = null;
 
-        let title = "All ";
+        let pagetitle = "";
 
         if(type == "droids") {
             productMap = productList.get('droids');
-            title += "perfume and fragrance";
+            pagetitle += i18n.getString("pagetitle","1")
         }
         else if(type == "vehicles") {
             productMap = productList.get('vehicles');
-            title += "hand & body care";
+            pagetitle += i18n.getString("pagetitle","2");
+            // "title": i18n.getString("title", "1")
         }
 
         //view is solely for HTML markup, contains no static text
         let view = `<section class="browsePage">
-                        <h1>${title}</h1>
+                        <h1>${pagetitle}</h1>
                         <div class="browseGrid">`;
 
         productMap.forEach((product, key) => {
