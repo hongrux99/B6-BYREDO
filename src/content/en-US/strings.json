@@ -42,7 +42,8 @@
     },
     "Home": {
         "welcomeSubtitle": "Byredo creates and develops a range of products such as fragrance, makeup, home, leather goods and accessories. We believe that through creativity, we are able to develop timeless products, both meaningful and inspirational, to people and their lives.",
-        "symbolAlt": "Imperial Credit currency symbol"
+        "symbolAlt": "Imperial Credit currency symbol",
+        "welcomeMessage": "Welcome to Byredo!"
     },
     
     "Checkout": {
